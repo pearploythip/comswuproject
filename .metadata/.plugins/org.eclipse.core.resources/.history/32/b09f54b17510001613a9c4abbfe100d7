@@ -1,0 +1,125 @@
+package bubble;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import java.awt.Color;
+import javax.swing.JButton;
+import java.awt.BorderLayout;
+import javax.swing.JLabel;
+import java.awt.Font;
+import javax.swing.JTextField;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import javax.swing.JPanel;
+
+public class Menu {
+
+	private JFrame frmBubblesortproject;
+	private JTextField txtSpeed;
+	private int mspeed ;
+	private int mtype ;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Menu window = new Menu();
+					window.frmBubblesortproject.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public Menu() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frmBubblesortproject = new JFrame();
+		frmBubblesortproject.getContentPane().setBackground(new Color(204, 204, 255));
+		frmBubblesortproject.getContentPane().setLayout(null);
+		
+		JLabel lblS = new JLabel("Speed :");
+		lblS.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		lblS.setBounds(159, 371, 75, 40);
+		frmBubblesortproject.getContentPane().add(lblS);
+		
+		JLabel lblMilliseconds = new JLabel("Milliseconds");
+		lblMilliseconds.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		lblMilliseconds.setBounds(369, 371, 135, 40);
+		frmBubblesortproject.getContentPane().add(lblMilliseconds);
+		
+		txtSpeed = new JTextField();
+		txtSpeed.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		txtSpeed.setText("250");
+		txtSpeed.setBounds(234, 373, 125, 40);
+		frmBubblesortproject.getContentPane().add(txtSpeed);
+		txtSpeed.setColumns(10);
+		frmBubblesortproject.setTitle("BubbleSortProject");
+		frmBubblesortproject.setBounds(100, 100, 600, 600);
+		frmBubblesortproject.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		JButton btnStart = new JButton("Start");
+		btnStart.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {				
+				mspeed=Integer.valueOf(txtSpeed.getText()); 
+				
+				//setVisible(false);
+				TestSort testsort= new TestSort();
+				testsort.type =mtype;
+				testsort.speed = mspeed;
+				//testsort.setVisible(true);
+
+			}
+		});
+		btnStart.setEnabled(false);
+		btnStart.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		btnStart.setBounds(246, 482, 100, 40);
+		frmBubblesortproject.getContentPane().add(btnStart);
+		
+		JPanel panel = new JPanel();
+		panel.setBounds(0, 0, 584, 561);
+		frmBubblesortproject.getContentPane().add(panel);
+		panel.setLayout(null);
+		
+		JButton btnCreate = new JButton("Create Sort");
+		btnCreate.setBounds(103, 267, 127, 40);
+		panel.add(btnCreate);
+		btnCreate.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				mtype = 2;
+				btnStart.setEnabled(true);
+			}
+		});
+		btnCreate.setBackground(new Color(255, 255, 153));
+		btnCreate.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		
+		JButton btnRandom = new JButton("Random Sort");
+		btnRandom.setBounds(356, 267, 150, 40);
+		panel.add(btnRandom);
+		btnRandom.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				mtype = 1;
+				btnStart.setEnabled(true);
+			}
+		});
+		btnRandom.setBackground(new Color(255, 255, 153));
+		btnRandom.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		
+
+		
+
+	}
+}

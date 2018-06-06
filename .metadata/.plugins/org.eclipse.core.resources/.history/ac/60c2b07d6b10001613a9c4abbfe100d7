@@ -1,0 +1,44 @@
+package bubble;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+
+public class Menu {
+
+	private JFrame frmBubblesortproject;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Menu window = new Menu();
+					window.frmBubblesortproject.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public Menu() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frmBubblesortproject = new JFrame();
+		frmBubblesortproject.setTitle("BubbleSortProject");
+		frmBubblesortproject.setBounds(100, 100, 400, 400);
+		frmBubblesortproject.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+
+}

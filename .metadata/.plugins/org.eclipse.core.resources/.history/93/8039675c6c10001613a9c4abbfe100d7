@@ -1,0 +1,70 @@
+package bubble;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import java.awt.Color;
+import javax.swing.JButton;
+import java.awt.BorderLayout;
+import javax.swing.JLabel;
+import java.awt.Font;
+
+public class Menu {
+
+	private JFrame frmBubblesortproject;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Menu window = new Menu();
+					window.frmBubblesortproject.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public Menu() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frmBubblesortproject = new JFrame();
+		frmBubblesortproject.getContentPane().setBackground(new Color(204, 204, 255));
+		frmBubblesortproject.getContentPane().setLayout(null);
+		
+		JButton btnCreate = new JButton("Create Sort");
+		btnCreate.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		btnCreate.setBounds(40, 171, 100, 40);
+		frmBubblesortproject.getContentPane().add(btnCreate);
+		
+		JButton btnRandom = new JButton("Random Sort");
+		btnRandom.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		btnRandom.setBounds(220, 171, 100, 40);
+		frmBubblesortproject.getContentPane().add(btnRandom);
+		
+		JButton btnStart = new JButton("Start");
+		btnStart.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		btnStart.setBounds(135, 295, 100, 40);
+		frmBubblesortproject.getContentPane().add(btnStart);
+		
+		JLabel lblS = new JLabel("Speed :");
+		lblS.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		lblS.setBounds(10, 233, 126, 40);
+		frmBubblesortproject.getContentPane().add(lblS);
+		frmBubblesortproject.setTitle("BubbleSortProject");
+		frmBubblesortproject.setBounds(100, 100, 600, 600);
+		frmBubblesortproject.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+}

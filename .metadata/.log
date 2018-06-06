@@ -1,0 +1,255 @@
+!SESSION 2559-05-02 20:29:52.141 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY com.yattasolutions.umllab.ui 4 0 2559-05-02 20:31:12.713
+!MESSAGE No valid license is available.
+!STACK 0
+com.yattasolutions.obf.kk.g: No license found for UML Lab.
+	at Y7ZLUDIU5UKRYGLEUGSNFUVLTWNSM5KKE25YZTP2MO7YMXP7RED2XDCIQMWPHSDGXYXMQG7MIVAJ76HUSOXLCUH7CIMZ3ETPAJDVJ5MVMMZOTXMALNE43ZFDPVZQKGCYZ6HIJCOM5RJZFKJKOKLMT57MBSOOFF6KNSE2YCZGLCZFCTGNQUYEUFA6TYZMMP64W7GZWNHQP5XRU5R7Y5R6GPBOPQAITZOYBWM7WAYVQDD2NRX7GG3JORHZFWJGLFZLZVSOZU25YFDGKKLNL3M7PLA7JUDK4RQO7PGKRMYXQ6S2KRWJXZO2S7QUBREICTB5OMJBHQQ56HEQIBRIBZ4LX3M6SUIOVAUQZMQ5YNEINHRZDVTEXEKX2ZZ3FMTQWJTLWPXLXUGOHWFS47KE2ZVQZDQTIRSF52BUDZU4WXPJZOL2LYFY2PM7BFA2JMO5372722UZQGPRF2CEAETBPOSDMELMGCMEE7J7I6DUNGL2UUSFPZYBQBYYEKEFHU4SFY4VKFCYHWMUWBWRLBI7B5FPI262RAIZRHZNN6RDO2DP2MLIGQ372BDY2UEGCHOVLPGDIZW4CGVNXL65F77V7KCHCZ2HTD3OUGAGVEOLDVCHRHJX3THMQJYZ32JVIGX2ST3CQPYVBHRZCRHHIFDAXNV2YINHI3UQK222S6EXJYFI5DDYRNRVYCDV5HCBZ2W64KRQG3ONMO73YA4GX5OOSSL4ODPCLGJW5A3GQLJEQ7HVEWOXMEDCTHHHPYNO3RNN2GFHWS4NSOSGRCGBQ737ULPW5TNZ6OOHMYPNIFCNRJD2CBASWK6D7AHJI226DDR3GCQHAT3L6W2LLGNTDUCTIEGIK3BBBKIHHEXB3LKE5WFXTYP5C2EUCL37OGHI23TGFHTEPD3G6NELKVGPQA3XRHRB2UNEDNPYBFRU3IG7A6OFULWXXL45TE7SEULNFIBNWJRYXQLZYFJGFIUI4MDMAXXOVZD4JOKPILAMW5VDH7CZS64YJSH2WVWDEBQNUFXV2FE73HMDVMLQGQIOL6EIJAZMTWZ3PGEEWSVL64OIMYKIHOLV7FIMBTHOXEKGAG5HXGNXESJ54SDVP6XT73YSZXYITE5IBBJY2VPY3ARQ3RSP4KLT5MVVB5UERRKDKOHHVSY5R3SCQ7QNVHD6VKJLSZAON6ILZD2ZR7DQURNYRSYBVQBFWYTLBJQWU7VX5YMINYAAHUQSXF3BHRCEB6YKUQLVMFL7G5JIUMHSHD4RVS25BJEJUBZQB5LHAR6KUUK3RJEPW7Y557DUY6XO2XAPGOMVISTMTIY6RR6ZEMPQ2P4DWLUXRPN3M774VCV33QTC3V4GKT5C25E3RAXQKFGDNATE6ZZZLGXHVM7OM74CITZFIY57YUG4PICGZIS6IS2BMP7Y5PSERAO6K7LVCHEKRAW5SN26CO5WQEER64HQW7LR2KM3LNXGU2MWEH6XNDP3APO3ESMEIWRQSOAFI5HEAL5JYEFOPOEWUTO3WMHD2O5WI72KIB6QDM35WJ6CESOPRWSCLICM4ZOHPRBT6KLKIN7VLZDQPYGB4RVMSA4BK5BXFLFFLAZN5FJPZDF5XOJQCR3VWDQGEFGNL237EQHB7FCA5CJPULWSWNM4DCVQX6O76U2W4MZW5AFNYLZUZT5YW6LLHBXFCF3F2BPED677SKRB5L2AXIGWVYECR4FDY2JUNKYP6UXF7VMO7KNT3QUBLQN2PHRZK2AIVUBLDOURPDVLYZGFTPSGAODSDIBM5N5ZSBLMDQDLNFA3LWATGEMHYRYVRTY3XNMDKFGCQFQSZEGFRJQNGIAWPUP3YFAVFIAHMG3PC447ZBFSQCNAO4QKURQOCV6VLEX4RWROF274HGTHF4QZWI4DMIACKW7E4AVR6XUOO6LZJ5R2DEGB7MSHNOQAPIPLMIVHSIFMI43V2TWQ7CNN4Q45FWHZHZG26K5GTVPY3XJJQQO3SGIPGBSHG2ZD5SONAOY6NRXF5XBJSFC3WDYPAFNQ6X2K2UOOERGOAL77E5ZUVBMGVK7FKERXMZJ7VASG6OUTXH4MT5LHWONBYIP77YX25MSEFGCDMHHAAXZSFWEXBE45JDY26YFIQBTOPPE6GJTM3G3BGEX7A3UBEFO3IVLAERK7XMFEY7NHRQ3QRZGNWOZ2VQGXVMAU7FY43C5P6SW74DPKQ5BNZOIAFYQXDDP3YLE652BTGJLWKHIZEJVWFOOALSFZE3G653JRPFLJAG2T7GJ4IZEECY436UOCXYGNJSJU6ZNZQIY6I4GSHITKFI4MCST3URKZ7XOK77AW4PG2YBPYS3RSRHM4Z4SCCUMLCUNUU5XDHYGFQIC3DT4LWO3Q3VSDCKINTMUCHRQWFA3H34PBSQ7AYTGH2WDQP3DN3MM5LHI2Z6J3AHOOI2CM6JESUO524Y2HVZYYZTLVGPGNXAC6MOAB7LK4KNKQ3JE6VNIGUNU5UMZHXYNFSRGIISPDQBS6MJBOKVZRPRMR3WGKNRXU4USN3HSFAHVXF5EI6M4677HR22QJ6745W7J5KWDLKX53NS7OPWIB5Y22UUCTJXC4AWAUZODSCHVFNS25ICJN6S5YLN3BLPRAPXZVXRVV3L4RMBGWIAWF3Z5KKFIKWSRFXBOTXIFPYU5E7AHOHYI6QK3SAYF5FCZATKWNI4PKAVYTGWNIBJQAH2WXURNSYGFTUBYVKEGVTUWZFKLAULOKRQBF4TIXS7DF32UN452IM2TLWF6ZOK4QQCMFBMCHUBEJ66FATOOXQVK5XTTRZK3FZ3ZPR2FJAT7TWEQQWIK6NU454K72YVYG2ZUZUBJKRACYIASSF4P2HSBXSYUIDJQ5XB5YBRHIURYWDZ4EEB5H2TRLXZZKE2THJ555DJH3EEF3O47ASR3ES6P7ZUSCEAUMKHH3IJLR4PWPV7PPMTVFYRNV5CE6K5UNONRK7EL7N6NJU2HPOZCX2DE6QD7FGK3UQAET3PLQYSEXIU7NHCZB/MHR3XYN3TBCLZCYTZSTG3RFEVG.<unknown>(Unknown Source)
+
+!ENTRY com.yattasolutions.umllab 2 0 2559-05-02 20:31:15.542
+!MESSAGE Unable to configure UML constraint validation
+!STACK 0
+java.lang.ClassNotFoundException: Unable to load synthetic subclass of com.yattasolutions.umllab.validation.f
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:123)
+	at com.yattasolutions.umllab.validation.f.<clinit>(SourceFile:40)
+	at com.yattasolutions.obf.os.a.earlyStartup(SourceFile:17)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:89)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:67)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$56.run(Workbench.java:2755)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.UnsupportedClassVersionError: com/yattasolutions/umllab/validation/f__Gen_Configurable has been compiled by a more recent version of the Java Runtime (class file version 0.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a$1.ado(SourceFile:109)
+	at com.yattasolutions.umllab.validation.a$1.findClass(SourceFile:91)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:119)
+	... 7 more
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-02 20:31:33.015
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-02 20:31:33.016
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pl0y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2559-05-02 23:27:39.898 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY com.yattasolutions.umllab.ui 4 0 2559-05-02 23:28:01.321
+!MESSAGE No valid license is available.
+!STACK 0
+com.yattasolutions.obf.kk.g: No license found for UML Lab.
+	at 25RBU63MSLFBWWQVCEIHXS55NWY62E7XIRLAP2CAQHGGLPNKJ4CUNFHNKBB2KL7W5FSZYSCXVXHFWMMXXPPUHF5GXRA37RCES7FKSMUZWT6XHB3FEQ2HIN7HSWPWVIUADLFXESGFQQY3WX4GJVXGLQUBSVVNJD6RJ5GLNJDFO4G4LCBWR4MKDG2JAD5RA55G3ZLIKWZCQOPFFCQ54PHSJTCTQGWJS7OCGNZE3GU6LGYBVDCQIGV2CL4ZUYVMH547CMT7XNKSW72P7PSB7CDESHSLGL2DJJMIOBJJILDZYPNPFCFPK5VV2U6HFCK2WK6HUIW74PVNA44AZGDLE7TY6B62KXZEWEV7R7JGZVPYBRBLBR43D42HMK4ZWEF4AVOE2VFZ5BUKF5STATLWNN7Q3BLPBSGLINQQQHFWPGP76ZJRNRZAYXDGAMKQSKXSWQZADMTR535JVMPDGNHHD7GGKPSL6UDDJRPFIXOWM34D4FLEJWMABBFLE6CAQH3SNFHT76HGOPLFACOPWYIAC4PR2SDSYQ7C3BVRYK5N42UJJ6TA7C3J4E2JYFG7QE634C7N3BKM5WSCXMNYVQMW4V3LGND2Z4MEY3E3ZWIKP77Q4CQULJYFFUX3FIHWM4W63CGUDHQ7SP6F2EKS4Y2AIVDXLXEFHOWXQQGP72SJNO2DVC2PEWXTBLDJW2IB73RYJHHCAQEXF72FUVRLJ3MTOOIVYSDRND774YAQNHJJMJSAVEGVR7KXTTZJP3TV4XJA2EQ5DJSGZFY3Y4XOY4YKABQFEF7EHM4IW6IXIC7X2J7KNMNYUSRUAIWQ62DX3CPN4L2KQBJJUA7SALMZDH7KK732LI43NGELOGWIBNTXT743IPTCE3VH26YKCBAZLNPSJGUZGVPKXZ7PW3HQVGDQH6LA5EAULZJPSBY5XARVHNNOCI6EZTIHGJRCDM7XGBFHN4ZYI7WNLELIXF7TWPDSGWM5ZOBNHRDWF4KTJQJMMPZA3H3SR2YINFJ3SSRRND3Z7AZ43TIOSYIVBAHUAIUSPL2CVYVEDHJ4F75WQDWHZV7XXI4O6EY7724W3Z3G4QDR57AIFG4VE4XIT5M66QNDSENWGKOCZWHDDL5NLDYTAVKOBDJZYPNWDSZVN7CXRGZRN7J3X7VSZGZZUXYXF3TZHWZNY6F7YF7J5HXR7SYLBCHFXHTN7NUY6DKDXIE43D4DQYGV44AIODRQJAEUFFYDDBQHKVLW75CJTLNAEMIAD5LIT2UWXFNFJLQRL36NBOHDWTZHWKGACUUHWOJPADOCTDIYAKDMVZIMJ6RNALKFSPMRULJHISF6MTQAL3AC5QKVNN64DZPXIDWZH3OJ5OS3ZQJRGITFSES6W7JN3Q2AN2GHJBOVBV5ELXDQXYWEVHQ5YT4LZE2SAL5Y2QJB5C4M5ZOL2W2ESWTXFUEORH5SGATLYCFTMVQLELZDNB5IFUAYM36EK6B4ZIB4KTNLB63AHCFVDMJL7Y574RQQM6PMR4TFK35ESTKUSHTVOOPIO67DDFV7FVGP6FYK73JSBHX4MPO45FHXGX7WGTYJKCAGTBESKV7UI3WPQAPW7ROM65VI3J6BBMUNOAKK33DHCD7ZO56Y2SBICTJQT4HCASHBNPMKCRUHQ4JBB65GMZIDYAHK7QCP3GHZAYPXTJ53HIKJK7SXCFRGZDQWDXN3SRU5JJTRUDF6JCWRDD4LVSEXMIO62YBUUAGASXCK7WKO56S63QGD5ED6JNK2F3RKRT4XDARGMZY53ULXKUOZHFDPMQPQEIXC/4MNHANOMHZRVO6JRAAC3BTGZQC.<unknown>(Unknown Source)
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-02 23:28:05.538
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-02 23:28:05.540
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pl0y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.yattasolutions.umllab 2 0 2559-05-02 23:28:05.660
+!MESSAGE Unable to configure UML constraint validation
+!STACK 0
+java.lang.ClassNotFoundException: Unable to load synthetic subclass of com.yattasolutions.umllab.validation.f
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:123)
+	at com.yattasolutions.umllab.validation.f.<clinit>(SourceFile:40)
+	at com.yattasolutions.obf.os.a.earlyStartup(SourceFile:17)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:89)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:67)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$56.run(Workbench.java:2755)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.UnsupportedClassVersionError: com/yattasolutions/umllab/validation/f__Gen_Configurable has been compiled by a more recent version of the Java Runtime (class file version 0.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a$1.ado(SourceFile:109)
+	at com.yattasolutions.umllab.validation.a$1.findClass(SourceFile:91)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:119)
+	... 7 more
+!SESSION 2559-05-03 20:20:40.193 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY com.yattasolutions.umllab.ui 4 0 2559-05-03 20:21:03.592
+!MESSAGE No valid license is available.
+!STACK 0
+com.yattasolutions.obf.kk.g: No license found for UML Lab.
+	at TMJ447J6EXC54F3QCLXKJZKHTX7QAPHPQWZDMJG5TV23L63QLKSLRWPZVGYM3UN77IESKNFJ2HLVVILUQQJVI74MUFQC2AAPA4PZ3UF46G4JGT67T7ZZM3S24O6BM5SFONPSXO2UTJS5U5CHJIHELLGJP5NW3UNUSVYPRIWSFJGSBEXL3PUZU22X43SZOGNP25O7O7C324XEVOWLBH7EUDMJVPDCDJZY2ZZZHEKRXZHZ6S7VWRE5WNHC75JX5ZAWVFA43Z5OIIFESAEPZVTK6F5TXQEJ7CCCDM5GVP6WPRNYTSGTOA3ZP4SKVEERLTNGUHRJA3EKWK466BT3GUTSYL4L5UA2IIH64PIMHNGFHL7RBTPG5BSKBPTW2TBGSVJJBJAWDHWJ2FDOOQREXAC37LQXABAQOUJ26ELDNPJQGVPBKHKVJUG4FUXUDEPTZW255T3YJMQBCDFNJXGK54TASGRKBR7WLW2YEIIKCSDBMWSQH5PF6WFGJLMXKVUTAPMZQ5B653PH3TAY4JQLX77VG3JPR3DYNWH5KGNBOUICM5GDTIL5QGWTU57Q4MROP7D4665IRPGUO37U6AXBHJQLKFTPPXHGCIYLRSCSCCDG4AFPDASHIQG2BXC5EXO5NT4R76AUCYJS4UESFE6WV2ATUM5TZ6NBX3BIGTQU42LJDJ367HJH2RCNF5UDTGMM5SDSPTUF5UJIWXQDDOTIAPU7EZQPJL2AT2A2RFIKRSPJUSYMXGBIQDTV2ZI5DGQRDJNSFXFMRRFC5NKSVD6Q3VJ2EUORBQSIM4MARXGRJYOTPJ26WHZPONRRBN7H6JIW76F52TMNNZMC2HUCIUOGEZJBSQRD43NLDYODJ7C2OSC3B2YXPQEPCKDXACLZ2T7AJKUWLTZG6LP5WIU2IQPGDJ3Y4CFNJ5UBBZYZLXVJSSCXSMNU5YO6OJCNZT2DELRAAXO5LETACOOUIOK2GHQ4I5BQ5X4BMMYKFPGOK7Y4BLQFSU6RYZSZ6B5ZSMAIQLNLBRQFUO4BETK2DPGO7BTEQEPKHHR3KF7AW5U2QIPSH4MOHI4VGZC3EEVPAMCBHKDR4X4HGGSJMHH5VPHJ5PEXRLPNOHEAK7OJJ7SZSKPPHJ7EHWVQ3OKN6KVS76XSKVVVDSAMUTOOMBBTYNG5N4CAIN3V47XHMJIJX7TYHZCRH5P4S4JVV3QQUO3AHZ7A5FZNLQHDUNYVULA4ELDHTJ2MKENSY2JOZAXOGWBFHV45FJEV3RD6EFJHWY2EFLS4MQHNH7A3MCOZKIKC62I26FUVINIJJVDZHSKYXTMRT6H7Y3AFIDSC67JOYIMBEC2E4D5NVKTCWM762WZ7BJG4A7WFK5QZWLOBDQGYAAHEKCO737BZIRVMAWEZW7F6O2ASRHDKPI67G3JKIQ7GCWNCFZ3REZZDR6R7BOHYGKUJPBVJ47YEZP26FRN54FBHTNS5ZUAGES44OSU3U4GE6BAF2255MDOWZGJIBGQMRA7CKNN3JP464DJPAJI7UBUTN5EHHVJCQZ6JZSEMVH4ONNTLHIGOSVRV5FUHPVUSRVO2D5YYUT5KVB3XQPCL2Q6M3VXXYLA6DTXXXWWOIVETVEYNBH6SIEXXNBYD4HBGX4EJI6N5CJUI532DNHUC4HXITPG5EVM6FB3MCR2DU7W55IFKHET2KNODAWCA2HOQTSBXZNOW6RIYMTZMU2LGZ42HVGMMIOUE43SMS2SESSLPSLSTS6GN2SONS2XDEMOODBJE3IMKRYPNPOPN7L4Z664TS2I7LSXIZ3TH/DWLCFCN3BOMXCJZNXNMLR2GRHB.<unknown>(Unknown Source)
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-03 20:21:08.175
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-03 20:21:08.175
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pl0y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.yattasolutions.umllab 2 0 2559-05-03 20:21:08.441
+!MESSAGE Unable to configure UML constraint validation
+!STACK 0
+java.lang.ClassNotFoundException: Unable to load synthetic subclass of com.yattasolutions.umllab.validation.f
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:123)
+	at com.yattasolutions.umllab.validation.f.<clinit>(SourceFile:40)
+	at com.yattasolutions.obf.os.a.earlyStartup(SourceFile:17)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:89)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:67)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$56.run(Workbench.java:2755)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.UnsupportedClassVersionError: com/yattasolutions/umllab/validation/f__Gen_Configurable has been compiled by a more recent version of the Java Runtime (class file version 0.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a$1.ado(SourceFile:109)
+	at com.yattasolutions.umllab.validation.a$1.findClass(SourceFile:91)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:119)
+	... 7 more
+!SESSION 2559-05-03 22:18:32.671 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product C:\Users\Pl0y\Desktop\BubbleSortProject\Bubble\src\bubble\Menu.java
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product C:\Users\Pl0y\Desktop\BubbleSortProject\Bubble\src\bubble\Menu.java
+
+!ENTRY com.yattasolutions.umllab.ui 4 0 2559-05-03 22:19:00.973
+!MESSAGE No valid license is available.
+!STACK 0
+com.yattasolutions.obf.kk.g: No license found for UML Lab.
+	at Q5CLZYSWHYORZSPS4MHNR7OPVI3QN5HJONN3POREZXFST7FZWH4IEUMBW2Z7OWY6ZK3ZPLRZVJMVG5G65P3OAIUVV4SJDEKZXZRWTES43SFNA22JLK6IACLZAXO7XQE6L3PZKOOQNNYN5L7TQOXZ3DCDXZKGK3ARMT3GBDZPMWKVNQYT4PP3PNOTQH6VVAEI2BOOTFTKGZX5QPYTOC7EWKXYEAR2VX6FXACZTOU3BUOJCFUMYNSG7GAIYJK7HJ3VQAEYRXTGV4KNNBHX5EQLDY32A7MDPNOMV6LFW4FNCBD7CIMSIXJRXXH5SXOCUBHGRHCNIJ6IUJV5HZH5TR6VWVAJUQJADLXQY7QA47U36BMHZ5BYPTERZBCWGJNZ4BPE4I6KL353JJGP3CF5435EPJMSOW73DB4DWGVPJCOQ7Q2ZL6TWB2N7EDNCZADDFB2XF3YZWYY2VPYACDLSCJE2C5XLT5MBCSVPVSSRGAWXAT7GUMUTTB3HB5L5TBIREIUS34X6J27ZNRPA7IOWZZTK36CXJVS27FIMSH4B6QTKJ7EL5OXSS442GQXC5NNIWTDODY5R2FDBIAX377O47XY6KJHOSVM3NMO6ELFH7YVGA3PKWZQ4V7E56SQABNQLBHCCFBHJNRVRLR5HFHFM6UWWVZH2O52QZDL3FI4ST3MBG3MNXRVMHXK6MPENFL2JSOKG5H6K4HSRNJ7UR3DKYEMTHQGFIJGCTWFK4M6K6LSRSOIBYLVEZMHVP53ZBHDEY3UR3UAG7CDF3TQ5ZY27HPRYCENRF3OZWUAKLHXTLGGD5WKFPKJT52DNMEUPDEC2NIJVK2RU3PQ7E2VCMVOV4WBBX4XL5WZUJTSPTZYOBAPDZZYE5KX3BSE2LQD4HAEYQXJGOJF7OCADEDRCZZSHS5NXTCFIKUILUJEP4RT3R266MJBR5KMCO5L24KQBWYLS7JQSVK4REGWU2HRL4BCS2SX65ZOG3WRYCUVKH4MENJCGWKLHLQEGYVEH2IT42VQTPVNECSKHUQEYFOANG6P535URMFPDP27DEHFZQI7LJI5EZCTSFADTTPTPXRFNKOU6LQY4Q6EIXH7KYW3KADG2K5HMS4HWAEJBLM4B2Z4IUEGQHOM55WZPMOCCVQCGWERGQU527R2CDKSBJTB5E7GPPFXKN5GALKFXIHFJ4IKLROQJF3I3KBJOHHV6PMA27LYRQPNGLYHV7P6NVPJ54D5IUYULI7WOEZMI5IRCFUK3RB54DXYU23XY2PABAKP2MUCL76H74N7DDUOIFUW4H4QMMDGKHV3OY4O4BXE6AYYMGUKJLHQFOFLFRUM5RAQWKBERI2SF3SHZOTFCTAL4IWUNWTHDW5SVIXCZYKDXLZGGUMRYMWUHFXIYCPD4C2R6LC2GWPPCKFGNGGRFYOWYNENXJPPOCZHYZ6WYQWITN7OFKUCM3QDOBQHJGMNJB3CAKXMJGQPVYFBJWISNJT76T5SOYCMUT243R54CUHFXMNCI6PQT6747PLUBQXRUY7E4RNYUCXPE2C42GI2RDU6P5JSQA6NWOP57ET2GOIMXPJOVBCYE3JZH73F5CQ7FOBDHPWIMQSGYL2OZ5NEBBF3RXG4LUI6IEFRLQ6H3L6IQ4IVISPK5UKEQONHYCW7ZFTP2TYPKALD2AZ3UCE3NMIBVBXO5HXNH4CFRGUWXM2JBDEWZ6GXCWS4HRC53GHRIPTIMC3RJBORMLBOHKMA6X5HKFPN77U4PQONT7BEICQEKM6QAJN4C7EPVVY6TBFIODZQC6FEPRTEU/IRPAWFZAZV4NLFBSPW7PWSPJOA.<unknown>(Unknown Source)
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-03 22:19:05.798
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-03 22:19:05.800
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pl0y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.yattasolutions.umllab 2 0 2559-05-03 22:19:05.901
+!MESSAGE Unable to configure UML constraint validation
+!STACK 0
+java.lang.ClassNotFoundException: Unable to load synthetic subclass of com.yattasolutions.umllab.validation.f
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:123)
+	at com.yattasolutions.umllab.validation.f.<clinit>(SourceFile:40)
+	at com.yattasolutions.obf.os.a.earlyStartup(SourceFile:17)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:89)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:67)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$56.run(Workbench.java:2755)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.UnsupportedClassVersionError: com/yattasolutions/umllab/validation/f__Gen_Configurable has been compiled by a more recent version of the Java Runtime (class file version 0.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a$1.ado(SourceFile:109)
+	at com.yattasolutions.umllab.validation.a$1.findClass(SourceFile:91)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:119)
+	... 7 more
+!SESSION 2559-05-03 23:37:54.040 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product C:\Users\Pl0y\Desktop\BubbleSortProject\Bubble\src\bubble\Menu.java
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product C:\Users\Pl0y\Desktop\BubbleSortProject\Bubble\src\bubble\Menu.java
+
+!ENTRY com.yattasolutions.umllab.ui 4 0 2559-05-03 23:38:19.296
+!MESSAGE No valid license is available.
+!STACK 0
+com.yattasolutions.obf.kk.g: No license found for UML Lab.
+	at HE2AWI34E2MA5QYIFNEOXSCFIUA4OQ63THHWQGPIIM57BDAQ46M35V5ABFQXA6IVHR6CEMZJBPV2CZRJPHGY3B5LNAKCLYF2QU4PGOET52NAIUTNGIZAXQT42VK6667JJOZ7E42OMCHN36W7XZPYCZYYGXJRJOLM35MK5VAKBB2FKMSW5SNZBSWDEACOZTE2QLD73KHFC4ETV3P6UAHBFVEJDLX572PLOSF7A4LZPZI73VZGAHFG5XCC4HBXZIHBTSBO3ANQE4GAORDXMTM7756NQFMP2R3R2HXPWEGY2EE2MVDK76T5LJE2FMPKWZGT3UR4MIDF4NNKAAE247QNLMVJD23LBWX3HMGTR3VDOXGARCR4DW6MUHRRM6AOFFVMMSXIUVSEVPCQDRYGLN5F6ELAWUHOIGJFDPQ7HDBOFU3JEL3EOPFJFWUCECTHUU5K5L7OZ2ZGK6EFOLLYGW2N2Z2U2XPETZV4YDR5CLN7SXX6OEKEHF5GKMVDO4BLGWQYN5GEXBH3J7CJI2H4SUMTEHWXQRA56UCQ3REW2K6V6WDKI5S4WFM2V5GWQLQZQFV46OZMHXVXSVAU7WK77NFASKFXREDTXNHLOUJTB777WCSIWM7FPTYVUTDAGYKT4GMTXUW6HUVSHR7J54XZD5WMGNJI734AFQLCRMZRON6Z5EBOGOG3TOSLUMFW6Q4PUORI7FHWXL2PFEHXJYY3QFIF7NVGR46QHRNPMJ3FL55S2HDDGVVLEORXZQM5H6UWJ364IGKMDSEXNHV3AJ4PWMMASNLGLKTLVXCJCYX2INS5UO46Y7MLCLA5SAAXPNZQ7F34RDDWR4RORYG5DMY3ULKWO5VSPYEI5NYTEWNLRJOZTJAO2YDCCBRHPWQCUILZMVZSUVPC3VXBM3YUMA5V47SAPABDUSPMIHXNXHSKTA7VUT65YMENQ5NK5FS6JKUWXZVW2HSK4BHEZONYYZIAHRTV4P4DKPLQ6P72YP67HA43UBK234VSDFXN5UQBKS65GF5LABKDMOBYYVLQDAT4J7BGMPZI7XVKBYTDLK26OU5FLNGHVQJMIWGGDU2ADNSTFZ2SCWT2CPKJWSM23I2QFQYASAUGGV2ETPZJ4VRZLFQBNUYZHHSCZZ3ZMMEUCKFB2R5DPH52WYFGLGHXGV5IZXPKKVZNM6ZHGPRVYCJ6IDBIEUNU5UYYA6J5E5PRGWIXMQKARU74Q42L5IJSQD4CKHO3EWZID5WIVTWBFREHSE6HGPC4P4SI7ZVRJFVXBOGKZYOFZ2JTRS3ERGCHPIZHYCYT4ITDHH5KU3RR6PZMEM2OUCVYLX4HOKZR3D7HZ626VPLK2QCAHQBKAF3GR3H3IMEQKVVT73FUSUPT4W3XX7KX2KXXS4U3LOOJFSIDWL3LMSTEX3BACETCQWCABDUIQPK65FZJ4BK6HGCECONP3TWX5RX4AB7WLWWBWDETZNR365QZGA2K3TPMQ2IK6VFLQDCACRK7EKH6ARZDX3UUWNY2B3D2DZ3QCDYAADSA2JYEE6DE4UKW4NNVCMTA5OKYN3XPDIKUKOGM3C3VJRP2YUAZDSSRPI7AEC5TU7VRLXB7ZBAEV37GB4CR6MEWTFUJIIHGFBQLOD3A2R5LRNVXR27GV4U7Q7GNABTWWIWZXMSRDFCEK2HFXWRGH55KM5BXDERFJJXBFTR44XDSXCKEMPB3Q3VYLWHJ3KAUZWPS65TZEGWWZ2H5CPC4CUC3UN3VAU7B5S3DAC7GUE6F4BST2ZRFKY6AVDB3RDUT5JRNUYWX26H3/YR7JM7VRFCQUXL5Q73UPHWIQTF.<unknown>(Unknown Source)
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-03 23:38:23.828
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2559-05-03 23:38:23.829
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pl0y'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.yattasolutions.umllab 2 0 2559-05-03 23:38:24.109
+!MESSAGE Unable to configure UML constraint validation
+!STACK 0
+java.lang.ClassNotFoundException: Unable to load synthetic subclass of com.yattasolutions.umllab.validation.f
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:123)
+	at com.yattasolutions.umllab.validation.f.<clinit>(SourceFile:40)
+	at com.yattasolutions.obf.os.a.earlyStartup(SourceFile:17)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:89)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:67)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$56.run(Workbench.java:2755)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.UnsupportedClassVersionError: com/yattasolutions/umllab/validation/f__Gen_Configurable has been compiled by a more recent version of the Java Runtime (class file version 0.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a$1.ado(SourceFile:109)
+	at com.yattasolutions.umllab.validation.a$1.findClass(SourceFile:91)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.yattasolutions.umllab.validation.a.R(SourceFile:119)
+	... 7 more
